@@ -1,7 +1,9 @@
 # About Me:
 Hey there! I'm Mohamed Mudawi, a junior at NYU studying Computer Science with a minor in Mathematics, and I'm interested in Software Engineering — especially in Full-Stack development, Cloud technologies, and AI/ML applications.
 
-<div style="background-color: green"><h3>dsadsadas</h3></div>
+<div style="background-color: lightblue; color: black; padding: 10px;">
+  This is a colored div inside Markdown.
+</div>
 
 # 👨‍💻 Programming Languages:
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a>
