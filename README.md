@@ -1,3 +1,5 @@
+<div style="text-align: center;">
+
 # About Me:
 Hey there! I'm Mohamed Mudawi, a junior at NYU studying Computer Science with a minor in Mathematics, and I'm interested in Software Engineering — especially in Full-Stack development, Cloud technologies, and AI/ML applications.
 
@@ -8,8 +10,7 @@ Hey there! I'm Mohamed Mudawi, a junior at NYU studying Computer Science with a 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/> </a>
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/> </a>
 
 # 🧰 Frameworks:
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a>
@@ -29,8 +30,10 @@ Hey there! I'm Mohamed Mudawi, a junior at NYU studying Computer Science with a 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a>
 
 # 📊 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohamed-mudawi&theme=dark&hide_border=false)<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-mudawi&theme=dark&hide_border=false"/><br/>
 
-# Connect With Me
-<a href="https://linkedin.com/in/mohamed-mud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-mud" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mohamed-mudawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohamed-mudawi" height="30" width="40" /></a>
+# Connect With Me  
+<a href="https://linkedin.com/in/mohamed-mud" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-mud" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mohamed-mudawi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohamed-mudawi" height="30" width="40" /></a>
+
+</div>
