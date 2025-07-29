@@ -1,11 +1,9 @@
 # About Me:
 Hey there! I'm Mohamed Mudawi, a junior at NYU studying Computer Science with a minor in Mathematics, and I'm interested in Software Engineering — especially in Full-Stack development, Cloud technologies, and AI/ML applications.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">Connect with me: <p align="left">
 <a href="https://linkedin.com/in/mohamed mudawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed mudawi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mohamed-mudawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohamed-mudawi" height="30" width="40" /></a>
-</p>
+</p></h3>
 
 # Tech Stack:
 **Programming Languages:**
