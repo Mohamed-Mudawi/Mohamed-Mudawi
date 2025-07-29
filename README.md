@@ -39,5 +39,5 @@ Hey there! I'm Mohamed Mudawi, a junior at NYU studying Computer Science with a 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohamed-mudawi&theme=dark&hide_border=false)<br/>
 
 # Connect With Me
-<a href="https://linkedin.com/in/mohamed mudawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed mudawi" height="30" width="40" /></a>
-</p></h3>
+<a href="https://linkedin.com/in/mohamed-mud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-mud" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mohamed-mudawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohamed-mudawi" height="30" width="40" /></a>
