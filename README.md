@@ -1,6 +1,6 @@
 <h1 align="center">About Me</h1>
 <p align="center">
-  Hey there! I'm Mohamed Mudawi, a junior at NYU studying Computer Science with a minor in Mathematics, and I'm interested in Software Engineering — especially in Full-Stack development, Cloud technologies, and AI/ML applications.
+  Hey there! My name's Mohamed Mudawi, a junior at NYU studying Computer Science with a minor in Mathematics, and I'm interested in Software Engineering — especially in Full-Stack development, Cloud technologies, and AI/ML applications.
 </p>
 
 <h2 align="center">👨‍💻 Programming Languages</h2>
