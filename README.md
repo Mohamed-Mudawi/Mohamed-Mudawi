@@ -86,4 +86,5 @@
   <a href="https://www.leetcode.com/mohamed-mudawi" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohamed-mudawi" height="30" width="40" style="margin: 5px"/>
   </a>
+  <a href="https://kaggle.com/magma929" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="magma929" height="30" width="40" /></a>
 </p>
