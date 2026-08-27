@@ -1,6 +1,6 @@
 <h1 align="center">About Me</h1>
 <p align="center">
-  Hey there! My name's Mohamed Mudawi, a senior at New York University studying Computer Science with a minor in Mathematics, and I'm interested in Software Engineering — especially Full-Stack development, Cloud technologies, and AI/ML applications.
+  Hey there! My name's Mohamed Mudawi, and I'm interested in Software Engineering — especially Full-Stack development, Cloud technologies, and AI/ML applications.
 </p>
 
 <h2 align="center">👨‍💻 Programming Languages</h2>
